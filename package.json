@@ -1,0 +1,29 @@
+{
+  "name": "charcoal-menu",
+  "version": "1.0.0",
+  "description": "Charcoal theme CSS menu",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arulkumar-lab/charcoal-menu.git"
+  },
+  "keywords": [
+    "charcoal",
+    "theme",
+    "css",
+    "css",
+    "menu",
+    "arului",
+    "arul",
+    "css"
+  ],
+  "author": "Arul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arulkumar-lab/charcoal-menu/issues"
+  },
+  "homepage": "https://github.com/arulkumar-lab/charcoal-menu#readme"
+}
